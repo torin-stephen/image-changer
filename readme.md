@@ -1,4 +1,4 @@
-# Shreksy
+# image changer
 
 Chrome extension that replaces all images with predefined image using css.
 
